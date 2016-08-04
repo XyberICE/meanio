@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="d12644ab-60dc-41d7-8254-adc493af325e" name="meanio-janodejs.rhcloud.com" url="http://meanio-janodejs.rhcloud.com">
+        <fileTransfer host="meanio-janodejs.rhcloud.com" port="22" privateKey="C:\Users\jasta\.ssh\id_rsa" accessType="SFTP" passphrase="dfe1dfc6df9adfdfdfcedfe1df9bdfc4dfcddfd9df84dff8dfcbdfc4dfcedfc5dfc7dff8dfcbdf9c" username="57a257e70c1e664bf500002e" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
